@@ -10,5 +10,5 @@ This repo implement Content-based Recommender System by using TF-IDF, Word2Vec, 
 * TF-IDF based
 * Word2Vec based
   - Average vectors of words in article to obtain vector for each article
-  - Weighted avergae vectors of words by taking word's TF-IDF value as weights in article to obtain vector for each article
+  - Weighted avergae vectors of words in article by taking word's TF-IDF value as weights to obtain vector for each article
 * Doc2Vec based
